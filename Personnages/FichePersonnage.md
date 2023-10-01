@@ -1,6 +1,10 @@
 # Fiche Persoonage
 
+**Nom du joueur** :
+
 **Nom du personnage** : 
+
+**Age** : [12-90]
 
 **Classe** : [Mage / Combattant / Voleur]
 
@@ -8,22 +12,26 @@
 
 **Points de vie (PV)** : [(Force+Agilité)*2]
 
+**Pièces d'or (PO)** : [Jeter 4D6*2]
+
 ## Caractéristiques
+> Chaque joueur dispose d'un total de 4 points, puis 1 point tous les 5 niveaux.
 
-Points disponibles : 3
+Force : 1
+Agilité : 1
+Intelligence : 1
 
-Force : 0
-Agilité : 0
-Intelligence : 0
+Points disponibles : 1
 
 ## Compétences
+> Choisir une compétence parmi celles de sa classe, puis une compétence supplémentaire tous les 10 niveaux.
 
-    [Voir fiche de compétences Combattant ou Voleur, les mages n'ont pas de compétences]
+    [Voir fiche de compétences]
 
 ## Équipement
 
 ### Armes
-> Les armes au CAC utilise la force, les armes à distance utilise l'agilité
+> Les armes au CAC utilise la force, les armes à distance utilisent l'agilité
 
 | Nom | Dégâts | Effets | Poids | Prix |
 | --- | ------ | ------ | ----- | ---- |
@@ -38,7 +46,9 @@ Intelligence : 0
 
 ## Inventaire
 
-    [Espace pour noter les objets que le personnage transporte]
+| Nom | Note | Poids | Prix |
+| --- | ---- | ----- | ---- |
+|     |      |       |      |
 
 ## Notes
 
