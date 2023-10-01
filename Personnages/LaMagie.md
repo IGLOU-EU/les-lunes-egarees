@@ -1,12 +1,10 @@
 # Utilisation de la Magie
 
 La La magie est aléatoire dans ce monde, quand un mage lance un sort, il désigne sa cible et anonce son desire magique.
-Il lance ensuite son nombre des dés (Intelligence), le dé le plus faible est celui qui compte.
+Il lance ensuite son nombre des dés (Intelligence), le dé le plus haut détermine la conséquence magique.
 
-- **1** peut choisir sa magie
-- **2 et 3** peut choisir un groupe de magie
-- **4 et 5** peut choisir une catégorie de magie 
-- **6** fait l'inverse de ce que le joueur veut
+Voir les [Règles du Jeu](../ReglesDuJeu.md#la-magie) pour plus d'informations sur l'utilisation de la magie.
+
 
 ## Catégorie : Magie Positive
 
