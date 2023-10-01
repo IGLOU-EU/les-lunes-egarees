@@ -3,7 +3,7 @@
 La La magie est aléatoire dans ce monde, quand un mage lance un sort, il désigne sa cible et anonce son desire magique.
 Il lance ensuite son nombre des dés (Intelligence), le dé le plus haut détermine la conséquence magique.
 
-Voir les [Règles du Jeu](../ReglesDuJeu.md#la-magie) pour plus d'informations sur l'utilisation de la magie.
+Voir les [Règles du Jeu](../ReglesDuJeu.md#-la-magie) pour plus d'informations sur l'utilisation de la magie.
 
 
 ## Catégorie : Magie Positive

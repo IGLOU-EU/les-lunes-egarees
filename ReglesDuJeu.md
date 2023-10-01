@@ -1,18 +1,25 @@
-# Règles des Lunes Égarées
+# 📜 Règles des Lunes Égarées
 
 [TOC]
 
-## Introduction
+## 💬 Introduction
 Bienvenue dans le monde des Lunes Égarées, où la magie est aussi imprévisible que son Maître de Jeu.   
 Incarnez un mage, un combattant ou un voleur, et explorez un univers étrange et mystique.
 
 Voici les règles essentielles pour vous guider à travers ce monde.
 
-## Les Dés
+## 🎲 Les Dés
 Les dés utilisés dans ce jeu sont des dés à six faces (D6) et des dés à quatre faces (D4).
 
 Le principe est simple, pour chaque action (hors Compétences), le joueur lance un nombre de dés égal à la caractéristique utilisée (Force, Agilité ou Intelligence) et seul le résultat du dé le plus élevé est pris en compte.
 > *Exemple : Un joueur lance 3 dés et obtient 2, 4 et 6. Le résultat de l'action est 6.*
+
+### Niveau de difficulté
+Le MJ (maître de jeu) peut définir un niveau de difficulté pour une action, cela impact résultat de l'action:
+- **Facile** : faire plus de 1.
+- **Normal** : faire 3 ou plus.
+- **Difficile** : faire 4 ou plus.
+- **Impossible** : faire 6.
 
 > *Note : il n'est pas possible pour les joueurs de niveau inférieur à 5 de faire un Succès héroïque ou un Échec critique.*   
 > Cela necessitant au moins 3 dans une caractéristique.
@@ -22,7 +29,7 @@ Lorsqu'un joueur obtient au moins 3 dés avec un résultat de 6, il obtient un *
 > *Exemple : Un joueur lance 5 dés et obtient 6, 2, 1, 6 et 6. Il obtient un Succès héroïque.*
 
 - Dans le cas d'un test de dégâts ou de protection, cela double le résultat du dé, passant de 6 à 12.
-- Dans tout autre cas, cela permet au joueur de choisir le résultat de son action (dans la limite du raisonnable).
+- Dans tout autre cas, cela permet au joueur de choisir le résultat de son action (dans la limite du raisonnable), ou au MJ si le joueur a besoin d'aide.
 
 ### Échec critique
 Lorsqu'un joueur obtient au moins 3 dés avec un résultat de 1, il obtient un **Échec critique**.
@@ -32,18 +39,21 @@ Dans tous les cas le MJ (maître de jeu) détermine le résultat de l'action en 
 - Dans le cas d'un test de dégâts ou de protection, cela annule le résultat du dé, passant de 1 à 0.
 - Dans tout autre cas, l'action est un échec.
 
-## Création du Personnage
+## 🪪 Création du Personnage
 Chaque joueur doit créer un personnage en suivant les étapes suivantes :
-1. Choisir un **Nom** bien cool pour son personnage.
+1. Choisir un **Nom** bien cool pour son personnage, un **age** et un **genre**.
 2. Choisir une **Classe** parmi les suivantes :
     - **Mage** : Utilise l'intelligence.
     - **Combattant** : Utilise la force.
     - **Voleur** : Utilise l'agilité.
 3. Déterminer le **Niveau** du personnage (1 au début).
-4. Distribuer ses points de caractéristiques.
-5. Calculer ses points de vie (PV).
-6. Choisir une compétence.
-7. Choisir son équipement.
+4. Distribuer son point de **caractéristiques**.
+5. Calculer ses points de vie (**PV**).
+6. Choisir une **compétence**.
+7. Choisir son **équipement**.
+    - De l'**argent** 4D6*2 PO.
+    - Une **arme** d'un montant maximum de 50 PO.
+    - L'**armure** la moins chère de sa classe.
 
 ### Caractéristiques
 Chaque joueur dispose de 4 points à répartir entre les caractéristiques suivantes :
@@ -78,7 +88,7 @@ Il faut ensuite soustraire la protection de l'ennemi pour déterminer les dégâ
 > *Exemple : Un combattant utilise une épée à deux mains (dégâts +2) et a une force de 3. Il lance 3 dés et obtient 2, 4 et 6. Il inflige 6 + 2 = 8 dégâts, mais l'ennemi porte une armure de protection 4, il subira donc 8 - 4 dégâts.*   
 > *Note : En cas de résultat de négatif, l'attaque est un échec.*
 
-Elles peuvent t'avoir des effets spéciaux, comme des dégâts élémentaires ou des effets magiques. Dans le cas ou l'arme a un effet occasionnant des dégâts, il faut lancer un dé à quatre faces (D4) pour déterminer le résultat de l'effet. Les effets peuvent être utilisés hors combat pour effectuer des actions spéciales.
+Elles peuvent avoir des effets spéciaux, comme des dégâts élémentaires ou des effets magiques. Dans le cas ou l'arme a un effet occasionnant des dégâts, il faut lancer un dé à quatre faces (D4) pour déterminer le résultat de l'effet. Les effets peuvent être utilisés hors combat pour effectuer des actions spéciales.
 
 Les armes et leurs effets sont décrits dans la fiche [Armes](Equipement/Armes.md).
 
@@ -93,9 +103,14 @@ Il est possible de porter une armure qui n'est pas adaptée à sa classe, cela i
 - **Voleur** : Armure combattant -1/3 d'agilité.
 - **Combattant** : Jet d'agilité pour ne pas déchirer l'armure de mage.
 
+> *Note : Une caractéristique ne peut pas être inférieure à 1.*
+
 Elles peuvent avoir des effets spéciaux, les armures et leurs effets sont décrits dans la fiche [Armures](Equipement/Armures.md).
 
-## La Magie
+## 🪄 La Magie
+La magie est imprévisible dans ce monde, quand un mage lance un sort, il désigne sa cible et anonce son desire magique.
+Il lance ensuite son nombre de D6 (égal à l'Intelligence), le dé le plus haut détermine la conséquence magique.
+
 La magie est imprévisible dans ce monde.
 Lorsqu'un mage lance un sort, il doit lancer un dé à six faces (D6) pour déterminer le résultat. 
 
@@ -110,20 +125,20 @@ Dans le cas d'un personnage non-mage, le résultat est celui-ci :
 - **5-4** : Il peut choisir une catégorie de magie.
 - **3-1** : Le sort fait l'inverse de ce que le joueur souhaite.
 
-> *Note : Le nombre de dés à lancer est égal à l'Intelligence.*
+La liste des magies et leurs effets sont décrits dans la fiche [des Magies](Personnages/LaMagie.md).
 
-La liste des magies et leurs effets sont décrits dans la fiche [La Magie](Personnages/LaMagie.md).
-
-## Combat
+## ⚔️ Combat
 Un combat peut être déclenché par le MJ ou par un joueur. 
 
+En cas d'attaques surprise, l'attaquant peut réaliser son attaque avant tout jet d'initiative. Il bénéficie d'un bonus de +2 sur son jet d'attaque.
+
 ### Initiative
-Une fois le combat déclenché, chaque joueur lance un dé à six faces (D6) pour déterminer son initiative. Le joueur ayant le plus haut résultat commence le combat, sauf en cas d'attaque surprise.
+Une fois le combat déclenché, chaque joueur lance un nombre de D6 correspondant à son **Agilité** pour déterminer son initiative. Les tours de jeu se déroulent dans l'ordre des initiatives, du plus haut au plus bas.
 
 ### Attaque
-Lorsqu'un joueur attaque, il annonce ce qu'il fait et lance un dé à six faces (D6) pour déterminer le résultat de son attaque. Le résultat du dé représente les dégâts infligés à l'ennemi au quel s'ajoute le bonus de l'arme, ou le résultat du sort.
+Lorsqu'un joueur attaque, il annonce ce qu'il fait et lance un nombre de D6 correspondant à la **caractéristique** utilisée (Force ou Agilité) pour déterminer ses dégâts au quel s'ajoute le bonus de l'**arme**, l'**effet** de l'arme et le bonnus de la **compétence**.
 
-## Conclusion
+## 💭 Conclusion
 Amusez-vous à explorer ce monde fantastique, à lancer des sorts magiques imprévisibles, à combattre des monstres terrifiants, et à forger votre propre destinée. Que l'aventure commence !
 
 *Note : Ces règles sont simples expres pour les joueurs novices. Le MJ peut adapter et ajouter des règles en fonction des préférences du groupe.*
