@@ -1,8 +1,10 @@
-# Fiche Persoonage
+# Fiche Personnage
 
-**Nom du joueur** :
+**Nom du joueur** : [Libre]
 
-**Nom du personnage** : 
+**Nom du personnage** : [Libre]
+
+**Genre** : [Masculin / Féminin / Autre]
 
 **Age** : [12-90]
 
@@ -46,9 +48,9 @@ Points disponibles : 1
 
 ## Inventaire
 
-| Nom | Note | Poids | Prix |
-| --- | ---- | ----- | ---- |
-|     |      |       |      |
+| Nom | Note | Prix |
+| --- | ---- | ---- |
+|     |      |      |
 
 ## Notes
 
