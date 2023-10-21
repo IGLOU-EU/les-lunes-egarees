@@ -21,6 +21,11 @@ Si vous ne savez pas comment vous y prendre, les discussions sont probablement l
 
 ## Règles du jeu 📖
 
+Vous pouvez proposer des modifications/Ajouts/Suppression de règles en gardant à l'esprit ces quelques points :
+- Les règles doivent rester relativement simples (On est pas sur du D&D)
+- Une évolution des règles progressive pour conserver un intérêt
+- Éviter le "stacking" d'atributs pour éviter les oublis aux débutants (Exemple : Tu as pensé à ajouter ton bonus X pour une attaque Y ?)
+
 Les règles du jeu sont disponibles dans le fichier [ReglesDuJeu.md](ReglesDuJeu.md).
 Vous y trouverez les règles essentielles pour vous guider à travers ce monde, mais aussi la création de personnage, déroulement d'un combat, etc.
 
