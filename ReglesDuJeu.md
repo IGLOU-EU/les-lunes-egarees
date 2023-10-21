@@ -36,7 +36,7 @@ Lorsqu'un joueur obtient au moins 3 dés avec un résultat de 1, il obtient un *
 > *Exemple : Un joueur lance 5 dés et obtient 1, 2, 1, 6 et 1. Il obtient un Échec critique.*
 
 Dans tous les cas le MJ (maître de jeu) détermine le résultat de l'action en plus de la conséquence suivante :
-- Dans le cas d'un test de dégâts ou de protection, cela annule le résultat du dé, passant de 1 à 0.
+- Dans le cas d'un test de dégâts ou de protection, cela annule le résultat du dé, passant à 0.
 - Dans tout autre cas, l'action est un échec.
 
 ## 🪪 Création du Personnage
@@ -110,9 +110,6 @@ Elles peuvent avoir des effets spéciaux, les armures et leurs effets sont décr
 ## 🪄 La Magie
 La magie est imprévisible dans ce monde, quand un mage lance un sort, il désigne sa cible et anonce son desire magique.
 Il lance ensuite son nombre de D6 (égal à l'Intelligence), le dé le plus haut détermine la conséquence magique.
-
-La magie est imprévisible dans ce monde.
-Lorsqu'un mage lance un sort, il doit lancer un dé à six faces (D6) pour déterminer le résultat. 
 
 Le résultat du dé détermine la magie qui sera utilisée :
 - **6** : Le mage peut choisir sa magie.
