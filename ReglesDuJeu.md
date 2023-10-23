@@ -65,7 +65,7 @@ Chaque joueur dispose de 4 points à répartir entre les caractéristiques suiva
 > Chaque 5 niveau supplémentaire permet d'ajouter 1 point à une caractéristique.
 
 Calculez ensuite vos points de vie (PV) en utilisant la formule suivante :
-**PV = (Force + Agilité) * 2**
+**PV = (Force + Agilité) * 2 + Niveau**
 
 ### Compétences
 A la création du personnage, chaque joueur choisit une compétence parmi celles de sa classe. Les compétences sont décrites dans les fiches de [Compétences du Combattant](Personnages/CompetencesCombattant.md), [Compétences du Voleur](Personnages/CompetencesVoleur.md) et [Compétences du Mage](Personnages/CompetencesMage.md).
