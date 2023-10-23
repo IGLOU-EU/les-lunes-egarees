@@ -1,7 +1,5 @@
 # 📜 Règles des Lunes Égarées
 
-[TOC]
-
 ## 💬 Introduction
 Bienvenue dans le monde des Lunes Égarées, où la magie est aussi imprévisible que son Maître de Jeu.   
 Incarnez un mage, un combattant ou un voleur, et explorez un univers étrange et mystique.
@@ -109,18 +107,19 @@ Elles peuvent avoir des effets spéciaux, les armures et leurs effets sont décr
 
 ## 🪄 La Magie
 La magie est imprévisible dans ce monde, quand un mage lance un sort, il désigne sa cible et anonce son desire magique.
-Il lance ensuite son nombre de D6 (égal à l'Intelligence), le dé le plus haut détermine la conséquence magique.
+Il lance ensuite son nombre de D6 (égal à l'Intelligence), le dé le plus haut détermine la capacité magique.
 
 Le résultat du dé détermine la magie qui sera utilisée :
 - **6** : Le mage peut choisir sa magie.
-- **5-4** : Le mage peut choisir un groupe de magie.
-- **3-2** : Le mage peut choisir une catégorie de magie.
+- **4-5** : Le mage peut choisir un groupe de magie.
+- **2-3** : Le mage peut choisir une catégorie de magie.
 - **1** : Le sort fait l'inverse de ce que le joueur souhaite.
 
 Dans le cas d'un personnage non-mage, le résultat est celui-ci :
-- **6** : Il peut choisir un groupe de magie.
-- **5-4** : Il peut choisir une catégorie de magie.
-- **3-1** : Le sort fait l'inverse de ce que le joueur souhaite.
+- **6** : Il peut choisir une catégorie de magie.
+- **1-5** : Le sort fait l'inverse de ce que le joueur souhaite.
+
+Dans le cas ou le joueur ne pourait pas choisir son groupe ou sa magie, le MJ (maître de jeu) lance un dé D6 pour le déterminer aléatoirement. Si le résultat du dé n'est pas disponible, le MJ (maître de jeu) choisit de lui-même.
 
 La liste des magies et leurs effets sont décrits dans la fiche [des Magies](Personnages/LaMagie.md).
 
